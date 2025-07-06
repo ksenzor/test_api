@@ -1,0 +1,5 @@
+allure-python-commons==2.8.23
+allure-pytest==2.8.23
+marshmallow==3.20.2
+pytest==8.0.2
+requests==2.32.4
